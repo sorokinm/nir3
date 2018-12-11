@@ -52,6 +52,8 @@ n= 7 d= 6
 n= 9 d= 8
 n= 11 d= 10
 
+http://charts.hohli.com/embed.html?created=1544563133785#w=640&h=480&d={"containerId":"chart","dataTable":{"cols":[{"label":"Kloosterman","type":"string","p":{}},{"label":"d","type":"number"}],"rows":[{"c":[{"v":"n= 3"},{"v":2}]},{"c":[{"v":"n= 5"},{"v":4}]},{"c":[{"v":"n= 7"},{"v":6}]},{"c":[{"v":"n= 9"},{"v":8}]},{"c":[{"v":"n= 11"},{"v":10}]}]},"options":{"legacyScatterChartLabels":true,"legend":"right","isStacked":true,"booleanRole":"certainty","vAxes":[{"minValue":null,"maxValue":null,"viewWindow":null,"viewWindowMode":null,"useFormatFromData":true},{"useFormatFromData":true}],"hAxis":{"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null,"logScale":false,"useFormatFromData":true},"width":640,"height":480},"state":{},"view":{"columns":null,"rows":null},"isDefaultVisualization":false,"chartType":"BarChart"}
+
 Kasami apn 2 ^ 2i - 2 ^ i + 1
 n=2, i=1, d=2
 n=3, i=1, d=2
@@ -84,6 +86,8 @@ n=10, i=1, d=2
 n=10, i=3, d=4
 n=10, i=7, d=4
 
+http://charts.hohli.com/embed.html?created=1544564269828#w=800&h=600&d={"containerId":"chart","dataTable":{"cols":[{"label":"d","type":"string"},{"label":"i","type":"number"},{"label":"n","type":"number"}],"rows":[{"c":[{"v":"2"},{"v":1},{"v":2}]},{"c":[{"v":"2"},{"v":1},{"v":3}]},{"c":[{"v":"2"},{"v":2},{"v":3}]},{"c":[{"v":"2"},{"v":1},{"v":4}]},{"c":[{"v":"2"},{"v":3},{"v":4}]},{"c":[{"v":"2"},{"v":1},{"v":5}]},{"c":[{"v":"3"},{"v":2},{"v":5}]},{"c":[{"v":"3"},{"v":3},{"v":5}]},{"c":[{"v":"2"},{"v":4},{"v":5}]},{"c":[{"v":"2"},{"v":1},{"v":6}]},{"c":[{"v":"2"},{"v":5},{"v":6}]},{"c":[{"v":"2"},{"v":1},{"v":7}]},{"c":[{"v":"3"},{"v":2},{"v":7}]},{"c":[{"v":"4"},{"v":3},{"v":7}]},{"c":[{"v":"4"},{"v":4},{"v":7}]},{"c":[{"v":"3"},{"v":5},{"v":7}]},{"c":[{"v":"2"},{"v":6},{"v":7}]},{"c":[{"v":"2"},{"v":1},{"v":8}]},{"c":[{"v":"4"},{"v":3},{"v":8}]},{"c":[{"v":"4"},{"v":5},{"v":8}]},{"c":[{"v":"2"},{"v":7},{"v":8}]},{"c":[{"v":"2"},{"v":1},{"v":9}]},{"c":[{"v":"3"},{"v":2},{"v":9}]},{"c":[{"v":"5"},{"v":4},{"v":9}]},{"c":[{"v":"5"},{"v":5},{"v":9}]},{"c":[{"v":"3"},{"v":7},{"v":9}]},{"c":[{"v":"2"},{"v":8},{"v":9}]}]},"options":{"hAxis":{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null},"legacyScatterChartLabels":true,"vAxes":[{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null},{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null}],"booleanRole":"certainty","colors":["#3366CC","#DC3912","#FF9900","#109618","#990099","#0099C6","#DD4477","#66AA00","#B82E2E","#316395","#994499","#22AA99","#AAAA11","#6633CC","#E67300","#8B0707","#651067","#329262","#5574A6","#3B3EAC","#B77322","#16D620","#B91383","#F4359E","#9C5935","#A9C413","#2A778D","#668D1C","#BEA413","#0C5922","#743411"],"legend":"right","width":800,"height":600},"state":{},"view":{"columns":null,"rows":null},"isDefaultVisualization":false,"chartType":"BubbleChart"}
+
 Welch apn 2 ^ t + 3 n = 2t+1
 n=5, t=2, d=3
 n=7, t=3, d=3
@@ -98,6 +102,8 @@ n=9, t=4, d=3
 n=11, t=5, d=6
 n=13, t=6, d=4
 
+http://charts.hohli.com/embed.html?created=1544564763672#w=800&h=600&d={"containerId":"chart","dataTable":{"cols":[{"label":"d","type":"string"},{"label":"t","type":"number"},{"label":"n","type":"number"}],"rows":[{"c":[{"v":"2"},{"v":2},{"v":5}]},{"c":[{"v":"4"},{"v":3},{"v":7}]},{"c":[{"v":"3"},{"v":4},{"v":9}]},{"c":[{"v":"6"},{"v":5},{"v":11}]},{"c":[{"v":"4"},{"v":6},{"v":13}]}]},"options":{"hAxis":{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null},"legacyScatterChartLabels":true,"vAxes":[{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null},{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null}],"booleanRole":"certainty","colors":["#3366CC","#DC3912","#FF9900","#109618","#990099","#0099C6","#DD4477","#66AA00","#B82E2E","#316395","#994499","#22AA99","#AAAA11","#6633CC","#E67300","#8B0707","#651067","#329262","#5574A6","#3B3EAC","#B77322","#16D620","#B91383","#F4359E","#9C5935","#A9C413","#2A778D","#668D1C","#BEA413","#0C5922","#743411"],"legend":"right","width":800,"height":600},"state":{},"view":{"columns":null,"rows":null},"isDefaultVisualization":false,"chartType":"BubbleChart"}
+
 Inversion apn
 n=3, t=1, d=2
 n=5, t=2, d=4
@@ -106,6 +112,10 @@ n=9, t=4, d=8
 n=11, t=5, d=10
 n=13, t=6, d=12
 
+http://charts.hohli.com/embed.html?created=1544565028982#w=800&h=600&d={"containerId":"chart","dataTable":{"cols":[{"label":"d","type":"string"},{"label":"t","type":"number"},{"label":"n","type":"number"}],"rows":[{"c":[{"v":"2"},{"v":1},{"v":3}]},{"c":[{"v":"4"},{"v":2},{"v":5}]},{"c":[{"v":"6"},{"v":3},{"v":7}]},{"c":[{"v":"8"},{"v":4},{"v":9}]},{"c":[{"v":"10"},{"v":5},{"v":11}]},{"c":[{"v":"12"},{"v":6},{"v":13}]}]},"options":{"hAxis":{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null},"legacyScatterChartLabels":true,"vAxes":[{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null},{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null}],"booleanRole":"certainty","colors":["#3366CC","#DC3912","#FF9900","#109618","#990099","#0099C6","#DD4477","#66AA00","#B82E2E","#316395","#994499","#22AA99","#AAAA11","#6633CC","#E67300","#8B0707","#651067","#329262","#5574A6","#3B3EAC","#B77322","#16D620","#B91383","#F4359E","#9C5935","#A9C413","#2A778D","#668D1C","#BEA413","#0C5922","#743411"],"legend":"right","width":800,"height":600},"state":{},"view":{"columns":null,"rows":null},"isDefaultVisualization":false,"chartType":"BubbleChart"}
+
+
+//это сделаю табличкой
 Dobbertin apn
 n=5, t=1, d=4
 n=10, t=2, d=5
