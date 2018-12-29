@@ -95,7 +95,7 @@ n=9, t=4, d=3
 n=11, t=5, d=3
 n=13, t=6, d=3
 
-Noho apn 
+Niho apn 
 n=5, t=2, d=2
 n=7, t=3, d=4
 n=9, t=4, d=3
@@ -119,5 +119,42 @@ http://charts.hohli.com/embed.html?created=1544565028982#w=800&h=600&d={"contain
 Dobbertin apn
 n=5, t=1, d=4
 n=10, t=2, d=5
+
+
+first_ccz_eq_to_power_f
+n=4, i=1, d=3
+n=4, i=3, d=3
+n=6, i=1, d=3
+n=6, i=5, d=3
+n=8, i=1, d=3
+n=8, i=3, d=3
+n=8, i=5, d=3
+n=8, i=7, d=3
+n=10, i=1, d=3
+n=10, i=3, d=3
+n=10, i=7, d=3
+n=10, i=9, d=3
+n=12, i=1, d=3
+n=12, i=5, d=3
+n=12, i=7, d=3
+n=12, i=11, d=3
+
+second_ccz_eq_to_power_f
+n=6, i=1, d=4
+n=6, i=5, d=4
+
+first_not_ccz_eq
+ws generated!
+n=12, i=1 w=31, d=2
+n=12, i=1 w=107, d=2
+n=12, i=1 w=134, d=2
+n=12, i=1 w=139, d=2
+n=12, i=1 w=161, d=2
+n=12, i=1 w=176, d=2
+n=12, i=1 w=200, d=2
+n=12, i=1 w=201, d=2
+
+
+
 
 
