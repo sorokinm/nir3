@@ -59,13 +59,18 @@ if len(sys.argv) != 2:
 param = 2
 G = get_general_linear_group(param)
 
-dim = 3
+dim = 5
 
 gl = get_general_linear_group(dim)
 
-for g in gl:
-    print(integral_branch_number(g, dim))
-#print(gl[4])
+
+#for i in range(2 ^ 4):
+#    print(gl[randint(0, gl.order() - 1)])
+index = gl.order() - 1
+#while index >= 0:
+#    print(integral_branch_number(gl[index], dim))
+#    index -= 1
+print(gl[gl.order() - 56])
 
 '''
 for gr in gp:
